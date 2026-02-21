@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Solar Galaxy App</string>
+
+    <!-- Navigation -->
+    <string name="home">Home</string>
+    <string name="solar_system">Solar System</string>
+    <string name="galaxy">Galaxy</string>
+    <string name="back">Back</string>
+
+    <!-- Screen Titles -->
+    <string name="welcome_to_space">Welcome to Space!</string>
+    <string name="welcome_message">Explore the wonders of our solar system and beyond</string>
+    <string name="featured_items">Featured Space Objects</string>
+    <string name="planets">Planets</string>
+    <string name="stars">Stars</string>
+    <string name="description">Description</string>
+    <string name="type">Type</string>
+    <string name="distance_from_sun">Distance from Sun</string>
+    <string name="diameter">Diameter</string>
+    <string name="temperature">Temperature</string>
+    <string name="moons">Moons</string>
+    <string name="item_not_found">Item not found</string>
+
+    <!-- Types -->
+    <string name="planet">Planet</string>
+    <string name="star">Star</string>
+
+    <!-- Planet Names -->
+    <string name="mercury_name">Mercury</string>
+    <string name="venus_name">Venus</string>
+    <string name="earth_name">Earth</string>
+    <string name="mars_name">Mars</string>
+    <string name="jupiter_name">Jupiter</string>
+    <string name="saturn_name">Saturn</string>
+    <string name="uranus_name">Uranus</string>
+    <string name="neptune_name">Neptune</string>
+
+    <!-- Star Names -->
+    <string name="sun_name">Sun</string>
+
+    <!-- Galaxy Names -->
+    <string name="milky_way_name">Milky Way</string>
+
+    <!-- Descriptions -->
+    <string name="mercury_desc">Mercury is the smallest planet in our solar system and closest to the Sun. It has a thin atmosphere and its surface is covered with craters.</string>
+    <string name="venus_desc">Venus is the second planet from the Sun and has a thick toxic atmosphere that traps heat, making it the hottest planet in our solar system.</string>
+    <string name="earth_desc">Earth is our home planet and the only known planet to support life. It has one moon and is covered mostly with water.</string>
+    <string name="mars_desc">Mars is the fourth planet from the Sun and is known as the Red Planet because of its reddish appearance due to iron oxide on its surface.</string>
+    <string name="jupiter_desc">Jupiter is the largest planet in our solar system. It has 79 moons and a Great Red Spot which is a giant storm larger than Earth.</string>
+    <string name="saturn_desc">Saturn is known for its beautiful rings made of ice and rock. It has 82 moons and is the second largest planet.</string>
+    <string name="uranus_desc">Uranus rotates on its side and has a faint ring system. It is an ice giant with a cold atmosphere.</string>
+    <string name="neptune_desc">Neptune is the eighth and farthest planet from the Sun. It has strong winds and storms in its atmosphere.</string>
+    <string name="sun_desc">The Sun is the star at the center of our solar system. It provides light and heat that makes life possible on Earth.</string>
+    <string name="milky_way_desc">The Milky Way is our home galaxy, containing billions of stars, including our Sun. It is a barred spiral galaxy.</string>
+</resources>

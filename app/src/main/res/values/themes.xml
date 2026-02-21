@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+        THEME UTAMA - Menggunakan Material3 Components
+        Parent Theme.Material3.DayNight.NoActionBar berasal dari
+        library com.google.android.material:material
+    -->
+    <style name="Theme.MovieCatalog_IFS23036" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Status bar transparan untuk Compose -->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">true</item>
+
+        <!-- Warna-warna untuk XML (tidak dipakai Compose tapi tetap ada) -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+    </style>
+
+    <!--
+        SPLASH SCREEN THEME
+    -->
+    <style name="Theme.MovieCatalog_IFS23036.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/space_dark</item>
+        <item name="postSplashScreenTheme">@style/Theme.MovieCatalog_IFS23036</item>
+    </style>
+</resources>
